@@ -1,8 +1,9 @@
 # Sozashop App
 
 Sozashop is a sass-based online inventory management system.
-
-This is just a starting repo. Rights of the code belongs to the company, i'm only attaching some of the screenshots to showcase my work.
+#
+This is just a starting repo. The codes are for some static pages.
+Rights of the code belongs to the company, i'm only attaching some of the screenshots to showcase my work.
 
 <div>
 <img align="center" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat"/>
